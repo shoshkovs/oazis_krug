@@ -1,0 +1,6 @@
+node_modules/
+.env
+video_buffer/
+user_settings.json
+*.log
+.DS_Store

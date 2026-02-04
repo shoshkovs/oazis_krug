@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ext": "js,json",
+  "ignore": ["user_settings.json", "video_buffer/*", "*.log"]
+}
